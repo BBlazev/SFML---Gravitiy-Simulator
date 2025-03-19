@@ -26,3 +26,8 @@ Interactive Controls:
   -G Key: Toggle gravity grid visualization.
 
   -ESC Key: Exit the simulation.
+
+
+
+![Gravity Simulator Gameplay](GravitySim.gif)
+
