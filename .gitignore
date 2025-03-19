@@ -1,0 +1,11 @@
+
+SFML/lib/
+SFML/bin/
+*.dll
+*.exe
+*.obj
+*.pdb
+.vs/
+*.ipch
+Debug/
+Release/
